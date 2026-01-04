@@ -1,0 +1,44 @@
+{
+  "app": {
+    "title": "Resize Images",
+    "description": "Resize your images quickly and easily for social media"
+  },
+  "header": {
+    "brand": "ResizeImages",
+    "nav": {
+      "home": "Home",
+      "templates": "Templates",
+      "about": "About"
+    },
+    "language": {
+      "selector": "Language",
+      "spanish": "Español",
+      "english": "English"
+    }
+  },
+  "hero": {
+    "title": "Select a photo, upload it everywhere",
+    "platforms": {
+      "instagram-post": "Instagram Post",
+      "instagram-story": "Instagram Story",
+      "facebook-post": "Facebook",
+      "twitter-post": "Twitter",
+      "linkedin-post": "LinkedIn",
+      "youtube-thumbnail": "YouTube"
+    }
+  },
+  "uploadZone": {
+    "title": "Upload Image",
+    "description": "Drag and drop an image here, or click to select",
+    "dragActive": "Drop the image here"
+  },
+  "uploadButton": {
+    "label": "Select Image",
+    "ariaLabel": "Select image from your device"
+  },
+  "errors": {
+    "invalidFormat": "Invalid file format. Please upload a JPEG, PNG, WebP, or GIF image.",
+    "fileTooLarge": "File is too large. Maximum size is 10MB.",
+    "multipleFiles": "Please upload only one image at a time."
+  }
+}

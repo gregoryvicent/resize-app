@@ -1,0 +1,15 @@
+/**
+ * Estilos para SocialRectangle con soporte responsive
+ */
+
+.rectangle {
+  /* Tamaños base para móvil se aplican via inline styles */
+}
+
+/* En tablets y desktop, usar tamaño completo */
+@media (min-width: 768px) {
+  .rectangle {
+    width: var(--desktop-width) !important;
+    height: var(--desktop-height) !important;
+  }
+}

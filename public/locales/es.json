@@ -1,0 +1,44 @@
+{
+  "app": {
+    "title": "Redimensionar Imágenes",
+    "description": "Redimensiona tus imágenes de forma rápida y sencilla para redes sociales"
+  },
+  "header": {
+    "brand": "ResizeImages",
+    "nav": {
+      "home": "Inicio",
+      "templates": "Templates",
+      "about": "Acerca de"
+    },
+    "language": {
+      "selector": "Idioma",
+      "spanish": "Español",
+      "english": "English"
+    }
+  },
+  "hero": {
+    "title": "Selecciona una foto, súbela a todas partes",
+    "platforms": {
+      "instagram-post": "Instagram Post",
+      "instagram-story": "Instagram Story",
+      "facebook-post": "Facebook",
+      "twitter-post": "Twitter",
+      "linkedin-post": "LinkedIn",
+      "youtube-thumbnail": "YouTube"
+    }
+  },
+  "uploadZone": {
+    "title": "Subir Imagen",
+    "description": "Arrastra y suelta una imagen aquí, o haz clic para seleccionar",
+    "dragActive": "Suelta la imagen aquí"
+  },
+  "uploadButton": {
+    "label": "Seleccionar Imagen",
+    "ariaLabel": "Seleccionar imagen desde tu dispositivo"
+  },
+  "errors": {
+    "invalidFormat": "Formato de archivo inválido. Por favor sube una imagen JPEG, PNG, WebP o GIF.",
+    "fileTooLarge": "El archivo es demasiado grande. El tamaño máximo es 10MB.",
+    "multipleFiles": "Por favor sube solo una imagen a la vez."
+  }
+}
